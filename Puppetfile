@@ -38,5 +38,5 @@ mod 'profile',
   :ref => 'master'
 
 mod 'nginx',
-  :git => 'git@github.com:nagasoumi/puppet-nginx.git',
+  :git => 'git@github.com:nagasoumi/puppet-nginx1.git',
   :ref => 'master'
